@@ -1,6 +1,6 @@
 /* max-width:600px */
 @media(max-width:600px){
-  html, boby {
+  html, body {
     line-height: 1.8;
 }
   .container{
@@ -20,7 +20,7 @@ h1 {
 }
 /* max-width:915px */
 @media(max-width:915px){
-  html, boby {
+  html, body {
     line-height: 1.8;
 }
   .container{
