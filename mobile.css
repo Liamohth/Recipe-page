@@ -19,7 +19,7 @@ h1 {
 
 }
 /* max-width:915px */
-@media(max-width:915px){
+/* @media(max-width:915px){
   html, body {
     line-height: 1.8;
 }
@@ -37,4 +37,4 @@ h1 {
     font-size: 18px;
   }
 
-}
+} */
